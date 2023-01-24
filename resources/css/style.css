@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+
+}
+ 
+img {
+    display: block;
+}
+
+.main > * {
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.main__heading {
+    font-size: 50px;
+}
+
+.main__sub-heading {
+    font-size: 42px;
+}
+
+.main__link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.main__video {
+    display: block;
+    
+}
+
+.main__text {
+
+}
+
+.main__img-camp {
+
+}
+
+.main__img-phone {
+
+}
+
+.main__copyright {
+    color: gray;
+    text-align: right;
+}
